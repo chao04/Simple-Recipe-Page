@@ -1,5 +1,8 @@
+
+
+
 #Title,
-h2
+h2,h1
 {
 
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -14,5 +17,37 @@ h2
 
 padding-left: 450px;
 
+
+}
+
+
+
+
+
+
+
+/*  Rice page styles start here top to bottom  */
+
+
+.rice-image{
+  display: block;
+  margin: auto;
+}
+
+
+#description-container{
+
+
+  background-color: rgb(143, 156, 207);
+  width: 400px;
+  margin: auto;
+
+}
+
+
+li,a {
+
+  display: block;
+  text-align: center;
 
 }
